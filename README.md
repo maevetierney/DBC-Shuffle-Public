@@ -6,10 +6,10 @@ This application support the [Getting Started with Ruby on Heroku](https://devce
 
 ## Running Locally
 
-```sh
+''' sh
 $ git clone https://github.com/mlaurel/dbc-shuffle.git
 $ cd dbc-shuffle
 $ bundle install
 $ bundle exec rake db:create db:migrate
 $ bundle exec rails s
-```
+'''
